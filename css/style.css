@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    width: 80%;
+    height: 70px;
+    justify-content: end;
+}
+
+nav img {
+    width: 70px;
+    height: auto;
+}
+
+nav div {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navigation {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.logo {
+    width: 50%;
+
+}
+
+.navigation h2 {
+    margin: 10px 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    justify-content: end;
+
+}
+
+/* Accueil */
+
+
+/* Propositions sondages */
+
+.sondages {}
+
+#Alde,
+#Gotaga {
+    width: 40%;
+}
+
+
+
+/* Page classement */
+
+.tableau {
+    margin: auto;
+    text-align: center;
+}
+
+.teteclassement h2 {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+thead th:nth-child(1) {
+    width: 30%;
+}
+
+thead th:nth-child(2) {
+    width: 20%;
+}
+
+thead th:nth-child(3) {
+    width: 15%;
+}
+
+thead th:nth-child(4) {
+    width: 35%;
+}
+
+th,
+td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.navclass {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navclass h2 {
+    margin: 10px 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    justify-content: end;
+
+}
+
+/* Footer */
+
+.basdepage {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.basdepage h2 {
+    margin: 10px 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    justify-content: end;
+
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+/* tablette */
+
+@media screen and (max-width:768px) {}
+
+
+/* téléphone */
+
+
+
+@media screen and (max-width:450px) {
+
+    /* Header */
+
+    header {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .navigation {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .navigation h2 {
+        font-size: 7px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        justify-content: end;
+
+    }
+
+    /* Footer */
+
+    .basdepage {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .basdepage h2 {
+        font-size: 7px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        justify-content: end;
+
+    }
+
+    footer {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+    }
+
+    /* Propositions sondages */
+
+    #Alde,
+    #Gotaga {
+        width: 100%;
+    }
+
+
+}
