@@ -31,10 +31,12 @@
         <h2>ici tu peux consulter le tableau des scores pour comparer le tiens et ceux des autres</h2>
         </div>
 
+        
+
         <br>
 
     <table  class="tableau">
-  <caption>Récapitulatif du classement général de la semaine</caption>
+  <caption>Sondage concernant Squeezie</caption>
   <thead>
     <tr>
 
@@ -47,30 +49,30 @@
   <tbody>
     <tr>
       <th scope="row">Margaux</th>
-      <td>1976</td>
-      <td>9</td>
+      <td>2500</td>
+      <td>Squeezie</td>
       <td>1</td>
     </tr>
 
     <tr>
       <th scope="row">Samy</th>
-      <td>1976</td>
-      <td>6</td>
+      <td>2250</td>
+      <td>Squeezie</td>
       <td>2</td>
     </tr>
        
 
     <tr>
       <th scope="row">Ayoub</th>
-      <td>1974</td>
-      <td>17</td>
+      <td>2000</td>
+      <td>Squeezie</td>
       <td>3</td>
     </tr>
 
     <tr>
       <th scope="row">Alex</th>
-      <td>1974</td>
-      <td>17</td>
+      <td>1500</td>
+      <td> Squeezie</td>
       <td>4</td>
     </tr>
 
@@ -78,8 +80,54 @@
 
 </table>
 
+<br>
+<hr>
+<br>
 
+<table  class="tableau">
+  <caption>Sondage concernant Gotaga</caption>
+  <thead>
+    <tr>
 
+      <th scope="col">Pseudos</th>
+      <th scope="col">Scores</th>
+      <th scope="col">Nom du sondage</th>
+      <th scope="col">Classement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Alex</th>
+      <td>2500</td>
+      <td>Gotaga</td>
+      <td>1</td>
+    </tr>
+
+    <tr>
+      <th scope="row">Ayoub</th>
+      <td>2000</td>
+      <td>Gotaga</td>
+      <td>2</td>
+    </tr>
+       
+
+    <tr>
+      <th scope="row">Samy</th>
+      <td>1750</td>
+      <td>Gotaga</td>
+      <td>3</td>
+    </tr>
+
+    <tr>
+      <th scope="row">Alex</th>
+      <td>1500</td>
+      <td>Gotaga</td>
+      <td>4</td>
+    </tr>
+
+  </tbody>
+
+</table>
 
 
     </main>

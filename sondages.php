@@ -64,14 +64,7 @@
 
     </section>
 
-    
-
-
-
-
     </main>
-
-
 
 <?php include('repetition/footer.php'); 
 
