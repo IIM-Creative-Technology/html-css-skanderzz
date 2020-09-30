@@ -4,7 +4,10 @@
     <main>
         <h2> Bienvenue dans ton espace personnel où tu peux voir tout les sondages que tu as réalisé </h2>
 
-        <section> </section>
+        <section> 
+    <div> </div>
+
+        </section>
 
 
 
