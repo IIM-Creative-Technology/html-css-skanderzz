@@ -50,6 +50,20 @@ a {
 
 /* Accueil */
 
+h1,
+h3 {
+    text-align: center;
+}
+
+#pdg,
+#Twitch {
+    text-align: center;
+}
+
+#LogoTwitch {
+    width: 50%;
+}
+
 /* Questionnaire */
 
 #presquestionnaire {
@@ -166,10 +180,13 @@ td {
 
 }
 
+
+
 footer {
     background-color: darkgray;
     display: flex;
     justify-content: center;
+
 }
 
 /* --------------------------------------------------------------------------------------Tablette */
@@ -232,14 +249,20 @@ footer {
         width: 100%;
     }
 
+    /* Accueil */
+
+    #LogoTwitch {
+        width: 100%;
+    }
+
 }
 
-/* -----------------------------------------------------------------------------------------Téléphone */
+/* --------------------------------------------------------------------------------Téléphone */
 
 
 @media screen and (max-width:450px) {
 
-    /* ---------------------------------------------------------------------------------------Header */
+    /* -----------------------------------------------------------------------------Header */
 
     header {
         background-color: black;
@@ -349,5 +372,9 @@ footer {
     th,
     td {
         padding: 10px 7px;
+    }
+
+    #LogoTwitch {
+        width: 100%;
     }
 }
