@@ -12,10 +12,10 @@
 
 
 
-
+            <p> Résultats : 2000 Points</p>
         </div>
 
-        <p> Résultats :</p>
+
 
         <br>
 
@@ -23,10 +23,10 @@
             <p class="under"> Gotaga </p>
             <img id="Gotaga" src="img/gotaga.jpg">
 
-
+            <p> Résultats : 2500 Points </p>
         </div>
         <br>
-        <p> Résultats :</p>
+
     </section>
 
 

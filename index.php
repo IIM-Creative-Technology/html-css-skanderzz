@@ -13,11 +13,19 @@
         <img id="LogoTwitch" src="img/Twitch.png">
     </div>
 
-
-
     <div>
         <h3> Nous sommes partenaires de cette plateforme de streaming pour vous offrir la meilleure expérience </h3>
     </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
 
 
