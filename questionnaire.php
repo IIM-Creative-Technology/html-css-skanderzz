@@ -3,7 +3,7 @@
 ?>
 
 <main>
-
+    <br>
     <br>
 
     <div id="imgpres">
@@ -16,29 +16,31 @@
 
     <br>
 
+
     <h3> </h3>
 
     <div class="Reponses">
 
-        <div>
+        <div class="reponse">
             <p> Réponse A </p>
         </div>
 
-        <div>
+        <div class="reponse">
             <p> Réponse B </p>
         </div>
 
-        <div>
+        <div class="reponse">
             <p> Réponse C </p>
         </div>
 
-        <div>
+        <div class="reponse">
             <p> Réponse D </p>
         </div>
 
     </div>
-</main>
 
+</main>
+<br>
 <?php include('repetition/footer.php');
 
 ?>
