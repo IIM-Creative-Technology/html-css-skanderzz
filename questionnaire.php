@@ -18,17 +18,25 @@
 
     <h3> </h3>
 
+    <div class="Reponses">
 
+        <div>
+            <p> Réponse A </p>
+        </div>
 
-    <button> </button>
+        <div>
+            <p> Réponse B </p>
+        </div>
 
-    <button> </button>
+        <div>
+            <p> Réponse C </p>
+        </div>
 
-    <button> </button>
+        <div>
+            <p> Réponse D </p>
+        </div>
 
-    <button> </button>
-
-
+    </div>
 </main>
 
 <?php include('repetition/footer.php');

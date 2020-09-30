@@ -122,7 +122,6 @@ thead th:nth-child(4) {
 th,
 td {
     padding: 10px;
-    border: 1px solid black;
 }
 
 .navclass {
@@ -137,6 +136,17 @@ td {
     font-family: 'Roboto', sans-serif;
     justify-content: end;
 
+}
+
+.Reponses {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.Reponses div {
+    width: 50%;
+    text-align: center;
 }
 
 /* ----------------------------------------------------------------------------------Footer */
@@ -338,6 +348,5 @@ footer {
     th,
     td {
         padding: 10px 7px;
-        border: 1px solid black;
     }
 }
