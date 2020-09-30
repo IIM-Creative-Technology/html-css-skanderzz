@@ -1,25 +1,25 @@
 <?php include('repetition/head.php');
 
 ?>
-    <main>
-        <h2> Bienvenue dans ton espace personnel où tu peux voir tout les sondages que tu as réalisé </h2>
+<main>
+    <h2> Bienvenue dans ton espace personnel où tu peux voir tout les sondages que tu as réalisé </h2>
 
-        <section> 
-    <div> </div>
+    <section>
+        <div> </div>
 
-        </section>
-
-
+    </section>
 
 
 
 
 
 
-    </main>
+
+
+</main>
 
 
 
-<?php include('repetition/footer.php'); 
+<?php include('repetition/footer.php');
 
 ?>
