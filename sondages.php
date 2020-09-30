@@ -25,7 +25,7 @@
 
         <div class="sondages">
 
-            <a href="sondages/Gotaga.php"> 
+            <a href="questionnaire.php?cheminimage=img/gotaga.jpg"> 
                 <img id="Gotaga" src="img/gotaga.jpg" >
             </a>
             <a href="https://www.twitch.tv/gotaga"> 
@@ -41,7 +41,7 @@
 
         <div class="sondages">
 
-            <a href="sondages/Squeezie.php"> 
+            <a href="questionnaire.php?cheminimage=img/Squeezie.jpg"> 
                 <img id="squeezie" src="img/Squeezie.jpg" >
             </a>
             <a href="https://www.twitch.tv/squeezie"> 
@@ -53,7 +53,7 @@
 
         <div class="sondages">
 
-            <a href="sondages/Corobizar.php"> 
+            <a href="questionnaire.php?cheminimage=img/Corobizar.jpg"> 
                 <img id="corobizar" src="img/Corobizar.jpg" >
             </a>
             <a href="https://www.twitch.tv/corobizar"> 
