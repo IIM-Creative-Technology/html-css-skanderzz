@@ -12,7 +12,8 @@
 
         <div class="sondages">
 
-            <a href="sondages/Alde.php"> 
+            <a href="questionnaire.php?cheminimage=img/Alde.jpg"> 
+            
                 <img id="Alde" src="img/Alde.jpg" >
             </a>
             <a href="https://www.twitch.tv/alderiate"> 

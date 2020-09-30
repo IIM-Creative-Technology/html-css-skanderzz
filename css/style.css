@@ -15,7 +15,7 @@ header {
 
 nav {
     display: flex;
-    width: 80%;
+    width: 100%;
     height: 70px;
     justify-content: end;
 }
@@ -35,15 +35,8 @@ a {
 }
 
 .navigation {
-    width: 50%;
     display: flex;
     justify-content: flex-end;
-
-}
-
-.logo {
-    width: 50%;
-
 }
 
 .navigation h2 {
@@ -140,7 +133,6 @@ td {
 /* ----------------------------------------------------------------------------------Footer */
 
 .basdepage {
-    width: 50%;
     display: flex;
     justify-content: flex-end;
 
@@ -222,14 +214,7 @@ footer {
 
 }
 
-
-
-
-
-
-
 /* -----------------------------------------------------------------------------------------Téléphone */
-
 
 
 @media screen and (max-width:450px) {

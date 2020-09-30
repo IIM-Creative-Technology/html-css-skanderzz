@@ -30,12 +30,6 @@
             <a href="classement.php">
                 <h2>Classement</h2>
             </a>
-            <a href="connexion.php">
-                <h2>Connexion</h2>
-            </a>
-            <a href="inscription.php">
-                <h2>Inscription</h2>
-            </a>
         </div>
     </header>
 
