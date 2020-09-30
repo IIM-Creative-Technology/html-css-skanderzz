@@ -59,14 +59,28 @@ a {
 
 /* Propositions sondages */
 
-.sondages {}
-
 #Alde,
-#Gotaga {
+#Gotaga,
+#squeezie,
+#corobizar {
     width: 40%;
 }
 
+.orgsond {
+    text-align: center;
+}
 
+h2 {
+    text-align: center;
+}
+
+.under {
+    padding: 10px;
+}
+
+.entete {
+    text-align: center;
+}
 
 /* Page classement */
 
@@ -148,7 +162,22 @@ footer {
 
 /* tablette */
 
-@media screen and (max-width:768px) {}
+@media screen and (max-width:800px) {
+
+    /* Propositions sondages */
+
+    #Alde,
+    #Gotaga,
+    #squeezie,
+    #corobizar {
+        width: 100%;
+    }
+}
+
+
+
+
+
 
 
 /* téléphone */
@@ -206,9 +235,25 @@ footer {
     /* Propositions sondages */
 
     #Alde,
-    #Gotaga {
+    #Gotaga,
+    #squeezie,
+    #corobizar {
         width: 100%;
     }
 
+    .orgsond {
+        text-align: center;
+    }
 
+    h2 {
+        text-align: center;
+    }
+
+    .under {
+        padding: 10px;
+    }
+
+    .entete {
+        text-align: center;
+    }
 }
